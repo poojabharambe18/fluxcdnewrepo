@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: cbs-authentication-microservice-container
-        image: acuteinformatics2024/enfinitycore-dev:Enfinity-AuthenticationService-26.01.00.00.03
+        image: acuteinformatics2024/enfinitycore-dev:Enfinity-AuthenticationService-26.01.00.00.02
         imagePullPolicy: IfNotPresent
 
         lifecycle:
